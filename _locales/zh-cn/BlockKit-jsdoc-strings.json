@@ -1,0 +1,30 @@
+{
+    
+    "BlockKit": "初级传感积木套件",
+    "BlockKit_Module": "鳄鱼夹电子模块",
+    "BlockKit.RGB_Program": "使用此方块替换Neopixel中的strip方块",
+    "BlockKit.Music": "播放音乐",
+    "BlockKit.Servo": "控制舵机角度（0°~180°）",
+    "BlockKit.Servo2": "控制舵机角度（0°~270°）",
+    "BlockKit.Servo3": "控制舵机角度（0°~360°）",
+    "BlockKit.MotorRun": "控制单个电机转动速度（-255~255），正数向前，负数向后",
+    "BlockKit.MotorRunDual": "同时控制两个电机转动速度（-255~255），正数向前，负数向后",
+    "BlockKit.MotorStopAll": "四个电机都停止",
+    "BlockKit.StepperDegree": "控制单个步进电机转动的角度",
+    "BlockKit.StepperTurn": "控制单个步进电机转动的圈数",
+    "BlockKit.StepperDual": "同时控制两个步进电机转动的角度",
+    "BlockKit.PWMOFF": "设置电机和舵机的PWM输出为零",
+    "BlockKit.CarRun": "控制积木小车运动",
+    "BlockKit.Handle": "摇杆控制积木小车运动，X和Y取值范围（-512~512）",
+
+    "BlockKit_Module.Potentiometer": "读取电位器模块的模拟值",
+    "BlockKit_Module.Rocker": "读取摇杆模块X轴和Y轴的模拟值",
+    "BlockKit_Module.Button": "检测按键模块是否按下",
+    "BlockKit_Module.IR": "红外避障传感器是否检测到障碍物",
+    "BlockKit_Module.Sound": "返回声音传感器检测到的模拟值",
+    "BlockKit_Module.Light": "返回当前光照强度",
+    "BlockKit_Module.Vibration": "震动或摇动时触发中断",
+    "BlockKit_Module.Hall": "检测到磁铁靠近时触发中断",
+    "BlockKit_Module.Ultrasonic": "超声波检测前方障碍物距离，检测距离小于5米"
+
+}

@@ -1,0 +1,22 @@
+{
+    "name": "BlockKit",
+    "version": "1.0.0",
+    "description": "Extension for YahBoom BlockKit V1.0.0",
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:lzty634158/pxt-neopixel"
+    },
+    "files": [
+        "README.md",
+        "BlockKit.ts",
+        "_locales/zh-cn/BlockKit-strings.json",
+        "_locales/zh-cn/BlockKit-jsdoc-strings.json",
+        "_locales/zh-tw/BlockKit-strings.json",
+        "_locales/zh-tw/BlockKit-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false,
+    "license": "MIT"
+}

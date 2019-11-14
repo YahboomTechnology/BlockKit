@@ -1,0 +1,30 @@
+{
+    
+    "BlockKit": "初級傳感積木套件",
+    "BlockKit_Module": "鱷魚夾電子模塊",
+    "BlockKit.RGB_Program": "使用此方塊替換Neopixel中的strip方塊",
+    "BlockKit.Music": "播放音樂",
+    "BlockKit.Servo": "控制舵機角度（0°~180°）",
+    "BlockKit.Servo2": "控制舵機角度（0°~270°）",
+    "BlockKit.Servo3": "控制舵機角度（0°~360°）",
+    "BlockKit.MotorRun": "控制單個電機轉動速度（-255~255），正數向前，負數向後",
+    "BlockKit.MotorRunDual": "同時控制兩個電機轉動速度（-255~255），正數向前，負數向後",
+    "BlockKit.MotorStopAll": "四個電機都停止",
+    "BlockKit.StepperDegree": "控制單個步進電機轉動的角度",
+    "BlockKit.StepperTurn": "控制單個步進電機轉動的圈數",
+    "BlockKit.StepperDual": "同時控制兩個步進電機轉動的角度",
+    "BlockKit.PWMOFF": "設置電機和舵機的PWM輸出為零",
+    "BlockKit.CarRun": "控制積木小車運動",
+    "BlockKit.Handle": "搖桿控制積木小車運動，X和Y取值範圍（-512~512）",
+
+    "BlockKit_Module.Potentiometer": "讀取電位器模塊的模擬值",
+    "BlockKit_Module.Rocker": "讀取搖桿模塊X軸和Y軸的模擬值",
+    "BlockKit_Module.Button": "檢測按鍵模塊是否按下",
+    "BlockKit_Module.IR": "紅外避障傳感器是否檢測到障礙物",
+    "BlockKit_Module.Sound": "返回聲音傳感器檢測到的模擬值",
+    "BlockKit_Module.Light": "返回當前光照強度",
+    "BlockKit_Module.Vibration": "震動或搖動時觸發中斷",
+    "BlockKit_Module.Hall": "檢測到磁鐵靠近時觸發中斷",
+    "BlockKit_Module.Ultrasonic": "超聲波檢測前方障礙物距離，檢測距離小於5米"
+
+}
